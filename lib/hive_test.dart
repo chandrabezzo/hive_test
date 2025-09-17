@@ -1,11 +1,8 @@
-/// Easily initialize a temporary [Hive] database for unit and widget tests.
-library hive_test;
-
 // 📦 Package imports:
-import 'package:hive/hive.dart';
+import 'package:hive_ce/hive.dart';
 
 // 🌎 Project imports:
-import 'src/get_temp_dir.dart';
+import 'package:hive_ce_test/src/get_temp_dir.dart';
 
 /// Initializes a [Hive] in a temporary directory.
 ///

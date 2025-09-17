@@ -1,9 +1,9 @@
 // 📦 Package imports:
 import 'package:flutter_test/flutter_test.dart';
-import 'package:hive/hive.dart';
+import 'package:hive_ce/hive.dart';
 
 // 🌎 Project imports:
-import 'package:hive_test/hive_test.dart';
+import 'package:hive_ce_test/hive_test.dart';
 
 void main() {
   test('initializing, using, and closing a test Hive works', () async {
