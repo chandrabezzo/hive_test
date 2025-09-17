@@ -38,4 +38,4 @@ Under the hood, this is a real instance of `Hive CE`. So you can open boxes, per
 
 ## 👨🏻‍💻 Authors
 
-- [@ptrbrynt](https://www.github.com/chandrabezzo) at [Solusibejo](https://solusibejo.com/)
+- [Chandra Abdul Fattah](https://www.github.com/chandrabezzo) at [Solusibejo](https://solusibejo.com/)
