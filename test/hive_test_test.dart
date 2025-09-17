@@ -2,7 +2,7 @@
 import 'package:hive_ce/hive.dart';
 
 // 🌎 Project imports:
-import 'package:hive_ce_test/hive_test.dart';
+import 'package:hive_ce_test/hive_ce_test.dart';
 import 'package:test/test.dart';
 
 void main() {
