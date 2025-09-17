@@ -6,8 +6,12 @@ import 'dart:math';
 import 'package:path/path.dart' as path;
 
 final _random = Random();
-String _tempPath =
-    path.join(Directory.current.path, '.dart_tool', 'test', 'tmp');
+String _tempPath = path.join(
+  Directory.current.path,
+  '.dart_tool',
+  'test',
+  'tmp',
+);
 
 /// Returns a temporary directory in which a Hive can be initialized
 Future<Directory> getTempDir() async {
